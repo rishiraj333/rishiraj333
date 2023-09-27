@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM…](https://ca-times.brightspotcdn.com/dims4/default/78feccd/2147483647/strip/true/crop/3000x2000+0+0/resize/2000x1333!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faf%2F23%2Faae89a474d299802f444f5c96206%2Fchat-gpt-02.gif))]
 <h1 align="center">Hi 👋, I'm Rishiraj (Rishi)</h1>
 <h3 align="center">I am an AI Scientist, with a BSc(Hons) from University of Hertfordshire.</h3>
 
