@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on [Cygnus Horizons](https://youtube.com/@CygnusHorizons?si=Tt3G2-drBcRqU5AJ)
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/rishiraj333](www.linkedin.com/in/rishiraj333)
+- 👨‍💻 All of my projects are available at [github.com/rishiraj333](https://github.com/rishiraj333)
 
 - 💬 Ask me about **Python, MacOS, Jupyter/Anaconda3, HuggingFace.**
 
 - 📫 How to reach me **rishirajtripathi333@gmail.com**
 
-- ⚡ Fun fact **I developed an AI voice assistant that not only assists users with tasks using a generative pre-trained transformer model but can also accurately identify the user's accent with 99.8% accuracy and respond in a matching accent for a personalised experience!**
+- ⚡ Interesting fact **I developed an AI voice assistant that not only assists users leveraging a generative pre-trained transformer model but can also accurately identify the user's accent with 99.8% accuracy and respond in a similar accent for a personalised experience!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
