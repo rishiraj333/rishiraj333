@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishiraj (Rishi)</h1>
-<h3 align="center">I am an AI Scientist, with a BSc(Hons) from University of Hertfordshire.</h3>
+<h3 align="center">I am an ML Developer/AI Scientist, with a BSc(Hons) from University of Hertfordshire.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiraj333&label=Profile%20views&color=0e75b6&style=flat" alt="rishiraj333" /> </p>
