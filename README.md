@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Rishi here! Welcome to my profile.</h1>
-<h3 align="center">I am a Business Analyst, with a BSc(Hons) in Computer Science (AI) from the University of Hertfordshire.</h3>
+<h3 align="center">I am a Business Analyst, with a BSc(Hons) in Computer Science (Artificial Intelligence) from the University of Hertfordshire.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiraj333&label=Profile%20views&color=0e75b6&style=flat" alt="rishiraj333" /> </p>
@@ -12,7 +12,7 @@
 
 - 👨‍💻 A few of my projects are available at [github.com/rishiraj333](https://github.com/rishiraj333)
 
-- 💬 Ask me about **Python, Excel, Data Visualisaton, Querying**
+- 💬 Ask me about **AI, BI, Python, Excel, Data Visualisaton, Querying**
 
 - 📫 How to reach me **rishirajtripathi333@gmail.com**
 
