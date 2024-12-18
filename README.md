@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Business Analytics**
 
-- 👯 I’m looking to collaborate on [Cygnus Horizons](https://youtube.com/@CygnusHorizons?si=Tt3G2-drBcRqU5AJ)
-
 - 👨‍💻 A few of my projects are available at [github.com/rishiraj333](https://github.com/rishiraj333)
 
 - 💬 Ask me about **AI, BI, Python, Excel, Data Visualisaton, Querying**
