@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rishirajtripathi333@gmail.com**
 
-- ⚡ Interesting fact **I have experience in customer-centric roles having worked with companies including a fintech start-up (Beurzbyte), and busniess partner and co-owner within John Lewis Partnership, a pioneer in the retail industry for over a century. Over the years, I have invested my time in learning, researching, developing and gaining comparative understanding of optimised AI software and algorithms.**
+- ⚡ Interesting fact **I have experience in customer-centric roles having worked with companies including a fintech start-up (Beurzbyte), and busniess partner (co-owner) role within John Lewis Partnership, a pioneer in the retail industry for over a century. Also, I was the President of Global Students' Society at Herts Students' Union. I have invested my time in learning, researching, gaining comparative understanding, and developing with AI softwares and algorithms. Leveraging shared knowledge from AI&ML communities on platforms such as LinkedIn, GitHub, Udemy, edX, coursera, YouTube, and Google Scholar, has been instrumental in identifying the potential and limitations of AI solutions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
