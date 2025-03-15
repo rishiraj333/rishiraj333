@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, Rishi here! Welcome to my profile.</h1>
-<h3 align="center">I am a Business Analyst, with a BSc(Hons) in Computer Science (Artificial Intelligence) from the University of Hertfordshire.</h3>
+<h3 align="center">I am an AI Engineer, with a Bachelor of Science (Honours) degree in Computer Science - Artificial Intelligence from the University of Hertfordshire.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiraj333&label=Profile%20views&color=0e75b6&style=flat" alt="rishiraj333" /> </p>
 
-- 🔭 I’m currently working on **Business Intelligence tools (Power BI, Tableau)**
+- 🔭 I’m currently working on **Multi-modal RAG**
 
-- 🌱 I’m currently learning **Business Analytics**
+- 🌱 I’m currently learning **Reasoning-based LLMs**
 
 - 👨‍💻 A few of my projects are available at [github.com/rishiraj333](https://github.com/rishiraj333)
 
-- 💬 Ask me about **AI, BI, Python, Excel, Data Visualisaton, Querying**
+- 💬 Ask me about **Data Science, Data analysis, Machine Learning, Deep Learning, NLP, LLM, RAG**
 
 - 📫 How to reach me **rishirajtripathi333@gmail.com**
 
-- ⚡ Interesting fact **I bring over 2 years of experience in customer-centric roles and more than a year in business ownership, I excel in adopting a data-driven approach to identify and implement impactful solutions.**
+- ⚡ Interesting fact **I have experience in customer-centric roles having worked with companies including a fintech start-up (Beurzbyte), and busniess partner and co-owner within John Lewis Partnership, a pioneer in the retail industry for over a century. Over the years, I have invested my time in learning, researching, developing and gaining comparative understanding of optimised AI software and algorithms.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
