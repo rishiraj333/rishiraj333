@@ -10,11 +10,11 @@
 
 - 👨‍💻 A few of my projects are available [here](https://github.com/rishiraj333?tab=repositories)]
 
-- 💬 Ask me about **AI, Data Science, Data analysis, Machine Learning, Deep Learning, NLP, LLM, RAG**
+- 💬 Ask me about **AI applications, Data Science, Data analysis, Machine Learning models, Deep Learning (neural networks), NLP Techniques, fine-tuning LLMs, and efficient RAG pipelines.**
 
 - 📫 How to reach me **rishirajtripathi333@gmail.com**
 
-- ⚡ Interesting facts **I have experience in customer-centric roles having worked with companies including a fintech start-up (Beurzbyte), and busniess partner (co-owner) role within John Lewis Partnership, a pioneer in the retail industry for over a century. Also, I was the President of Global Students' Society at Herts Students' Union. I have invested my time in learning, researching, gaining comparative understanding, and developing with AI softwares and algorithms, leveraging shared knowledge from AI&ML communities on platforms such as LinkedIn, GitHub, Udemy, edX, coursera, YouTube, and Google Scholar in this fast-evolving field.**
+- ⚡ Interesting facts **I bring experience from customer-centric roles, including a business representative position within a fintech startup (Beurzbyte) and a co-owner position within a poineer in UK retail (John Lewis PLC). I also served as President of the Global Students’ Society at Herts Students’ Union. Passionate about AI/ML, I’ve invested time in learning, researching, and building with cutting-edge tools and algorithms. I continuously engage with AI communities across platforms like GitHub, LinkedIn, Coursera, edX, Udemy, YouTube, and Google Scholar to stay ahead in this ever-evolving industry.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
