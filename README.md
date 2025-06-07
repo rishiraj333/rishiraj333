@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, Rishi here! Welcome to my profile.</h1>
-<h3 align="center">I am an AI Engineer, awarded with a Bachelors' degree (Honours) in Computer Science - Artificial Intelligence from the University of Hertfordshire.</h3>
+<h3 align="center">I am a passionate AI Engineer with a Bachelors' degree (Honours) in Computer Science - Artificial Intelligence from the University of Hertfordshire.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiraj333&label=Profile%20views&color=0e75b6&style=flat" alt="rishiraj333" /> </p>
 
-- 🔭 I’m currently working on **Multi-modal RAG**
+- 🔭 I’m currently working on **Sentiment Analysis with Deep Learning**
 
-- 🌱 I’m currently learning **Reasoning-based LLMs**
+- 🌱 I’m currently learning **AI-driven Reccomendation Systems**
 
 - 👨‍💻 A few of my projects are available [here](https://github.com/rishiraj333?tab=repositories)]
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rishirajtripathi333@gmail.com**
 
-- ⚡ Interesting facts **I bring experience from customer-centric roles, including a business representative position within a fintech startup (Beurzbyte) and a co-owner position within a poineer in UK retail (John Lewis PLC). I also served as President of the Global Students’ Society at Herts Students’ Union. Passionate about AI/ML, I’ve invested time in learning, researching, and building with cutting-edge tools and algorithms. I continuously engage with AI communities across platforms like GitHub, LinkedIn, Coursera, edX, Udemy, YouTube, and Google Scholar to stay ahead in this ever-evolving industry.**
+- ⚡ Interesting facts **I have gained transferable skills from customer-centric roles like business representative position within a fintech startup (Beurzbyte) and a co-owner position within a poineer in UK retail (John Lewis PLC). Also, I have served as the President of the Global Students’ Society 2021-22 at Herts Students’ Union. I have invested time in learning, researching, and building with cutting-edge tools and technologies to be confident in efficiently applying them in production environment.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
