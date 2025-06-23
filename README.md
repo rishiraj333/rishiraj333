@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Rishi here! Welcome to my profile.</h1>
-<h3 align="center">I am a passionate data scientist with a Bachelors' degree (Honours) in Computer Science - Artificial Intelligence from the University of Hertfordshire.</h3>
+<h3 align="center">I am a passionate data scientist with a <a href="https://www.bcs.org/deliver-and-teach-qualifications/academic-accreditation/" target="_blank" rel="noreferrer">BSC</a> accredited Bachelors' (Honours) degree in Computer Science - Artificial Intelligence from the University of Hertfordshire.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiraj333&label=Profile%20views&color=0e75b6&style=flat" alt="rishiraj333" /> </p>
