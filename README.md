@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Rishi here! Welcome to my profile.</h1>
-<h3 align="center">I am a passionate AI Engineer with a Bachelors' degree (Honours) in Computer Science - Artificial Intelligence from the University of Hertfordshire.</h3>
+<h3 align="center">I am a passionate data scientist with a Bachelors' degree (Honours) in Computer Science - Artificial Intelligence from the University of Hertfordshire.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiraj333&label=Profile%20views&color=0e75b6&style=flat" alt="rishiraj333" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI-driven Reccomendation Systems**
 
-- 👨‍💻 A few of my projects are available [here](https://github.com/rishiraj333?tab=repositories)]
+- 👨‍💻 Check Out my website: [here](https://rishiraj-ai-portfolio.lovable.app)]
 
 - 💬 Ask me about **AI applications, Data Science, Data analysis, Machine Learning models, Deep Learning (neural networks), NLP Techniques, fine-tuning LLMs, and efficient RAG pipelines.**
 
