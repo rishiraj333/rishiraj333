@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **AI-driven Reccomendation Systems**
 
-- 👨‍💻 Check Out my website: [here](https://rishiraj-ai-portfolio.lovable.app)]
-
 - 💬 Ask me about **AI applications, Data Science, Data analysis, Machine Learning models, Deep Learning (neural networks), NLP Techniques, fine-tuning LLMs, and efficient RAG pipelines.**
 
 - 📫 How to reach me **rishirajtripathi333@gmail.com**
 
 - ⚡ Interesting facts **After my graduation, I worked in the retail industry for 14 months before going for a career change!**
+
+- 👨‍💻 Check Out my website: [here](https://rishiraj-ai-portfolio.lovable.app)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
