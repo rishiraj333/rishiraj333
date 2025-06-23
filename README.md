@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rishirajtripathi333@gmail.com**
 
-- ⚡ Interesting facts **I have gained transferable skills from customer-centric roles like business representative position within a fintech startup (Beurzbyte) and a co-owner position within a poineer in UK retail (John Lewis PLC). Also, I have served as the President of the Global Students’ Society 2021-22 at Herts Students’ Union. I have invested time in learning, researching, and building with cutting-edge tools and technologies to be confident in efficiently applying them in production environment.**
+- ⚡ Interesting facts **After my graduation, I worked in the retail industry for 14 months before going for a career change!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
