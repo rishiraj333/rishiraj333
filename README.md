@@ -20,13 +20,13 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/rishiraj333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rishiraj333" height="30" width="40" /></a>
 
-<h3 align="left">Tech, Tools and Frameworks:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="macos" width="40" height="40"/> 
   </a> 
   <a href="https://www.zsh.org/" target="_blank" rel="noreferrer"> 
-    <img src=""https://raw.zsh.org/color_vertical_icon.png"" alt="zsh" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Zsh.png" alt="zsh" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -53,7 +53,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a> 
   <a href="https://www.anaconda.com/products/distribution" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" alt="anaconda" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Anaconda_Logo.png" alt="anaconda" width="40" height="40"/> 
   </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
