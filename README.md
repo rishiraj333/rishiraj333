@@ -26,7 +26,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="macos" width="40" height="40"/> 
   </a> 
   <a href="https://www.zsh.org/" target="_blank" rel="noreferrer"> 
-    <img src=""https://www.zsh.org/color_vertical_icon.png"" alt="zsh" width="40" height="40"/> 
+    <img src=""https://raw.zsh.org/color_vertical_icon.png"" alt="zsh" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
