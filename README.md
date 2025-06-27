@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rishirajtripathi333@gmail.com**
 
-- ⚡ Interesting facts **I was the President of Global Students Society at Herts Student Unnion, and after my graduation, I worked in the retail sector for 14 months before going for a career change!**
+- ⚡ Interesting facts **I was the President of Global Students Society at Herts Student Union, and after my graduation, I worked in the retail sector for 14 months before committing to a career change!**
 
 - 👨‍💻 Check Out my website: [here](https://rishiraj-ai-portfolio.lovable.app)]
 
