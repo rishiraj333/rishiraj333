@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, Rishi here! Welcome to my profile.</h1>
-<h3 align="center">I am a passionate data scientist with a <a href="https://www.bcs.org/deliver-and-teach-qualifications/academic-accreditation/" target="_blank" rel="noreferrer">BCS</a> accredited Bachelors' (Honours) degree in Computer Science - Artificial Intelligence from the University of Hertfordshire.</h3>
+<h3 align="center">I am a passionate AI developer with a <a href="https://www.bcs.org/deliver-and-teach-qualifications/academic-accreditation/" target="_blank" rel="noreferrer">BCS</a> accredited Bachelors' (Honours) degree in Computer Science - Artificial Intelligence from the University of Hertfordshire.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiraj333&label=Profile%20views&color=0e75b6&style=flat" alt="rishiraj333" /> </p>
 
-- 🔭 I’m currently working on **Sentiment Analysis with Deep Learning**
+- 🔭 I’m currently working on **Agentic AI, Tooling**
 
-- 🌱 I’m currently learning **AI-driven Reccomendation Systems**
+- 🌱 I’m currently learning **Model Context Protocol(MCP) Servers**
 
-- 💬 Ask me about **AI applications, Data Science, Data analysis, Machine Learning models, Deep Learning (neural networks), NLP Techniques, fine-tuning LLMs, and efficient RAG pipelines.**
+- 💬 Ask me about **AI applications, Data Science, Data analysis, Machine Learning models, Deep Learning (neural networks), NLP Techniques, fine-tuning LLMs, prompt engineering, and efficient RAG pipelines.**
 
-- 📫 How to reach me **rishirajtripathi333@gmail.com**
+- ⚡ Interesting facts: **I was the President of Global Students Society at Herts Student Union, and I have worked in the retail sector for 14 months!**
 
-- ⚡ Interesting facts **I was the President of Global Students Society at Herts Student Union, and after my graduation, I worked in the retail sector for 14 months before committing to a career change!**
+- 👨‍💻 My portfolio: [here](https://rishiraj-ai-portfolio.lovable.app)]
 
-- 👨‍💻 Check Out my website: [here](https://rishiraj-ai-portfolio.lovable.app)]
+- 📫 Reach out via: **rishirajtripathi333@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
