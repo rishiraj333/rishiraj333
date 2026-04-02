@@ -29,6 +29,12 @@
   <a href="https://www.zsh.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Zsh.png" alt="zsh" title="Zsh (Shell)" width="40" height="40"/> 
   </a> 
+  <a href="https://www.office.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/office/office-icon.svg" alt="office365" title="Microsoft Office 365" width="40" height="40"/> 
+  </a>
+  <a href="https://claude.ai/code" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Anthropic_Claude_logo.svg" alt="claude-code" title="Claude Code" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python 3" width="40" height="40"/> 
   </a> 
@@ -53,6 +59,12 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" title="Scikit-learn" width="40" height="40"/> 
   </a> 
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/logandark/logos/main/langchain/langchain-icon.svg" alt="langchain" title="LangChain" width="40" height="40"/> 
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" title="OpenAI" width="40" height="40"/> 
+  </a>
   <a href="https://www.anaconda.com/products/distribution" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Anaconda_Logo.png" alt="anaconda" title="Anaconda 3" width="40" height="40"/> 
   </a> 
@@ -78,7 +90,3 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="GCP" width="40" height="40"/> 
   </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishiraj333&show_icons=true&locale=en&layout=compact" alt="rishiraj333" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishiraj333&show_icons=true&locale=en" alt="rishiraj333" /></p>
