@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiraj333&label=Profile%20views&color=0e75b6&style=flat" alt="rishiraj333" /> </p>
 
-- 🔭 I’m currently working on **Agentic AI, Tooling**
+- 🔭 I’m currently working on [NLP](https://github.com/charlieboxall/Group-PG03-Natural-Language-Processing)], [Applied ML](https://github.com/berkinksk/EEEM068-Prompt-Tuning)]
 
-- 🌱 I’m currently learning **Model Context Protocol(MCP) Servers**
+- 📄 At [University of Surrey](https://www.surrey.ac.uk/postgraduate/artificial-intelligence-msc)] I’m currently pursuing **[MSc Artificial Intelligence with Industrial Practice](https://catalogue.surrey.ac.uk/2026-7/programme/PFA71-13)]**
 
-- 💬 Ask me about **AI applications, Data Science, Data analysis, Machine Learning models, Deep Learning (neural networks), NLP Techniques, fine-tuning LLMs, prompt engineering, and efficient RAG pipelines.**
+- 💬 Ask me about **Applied AI, Data Science, Data analysis, Machine Learning, Advance Computer Vision & Deep Learning (neural networks), NLP, fine-tuning LLMs, prompt engineering, and RAG**
 
 - ⚡ Interesting facts: **I was the President of Global Students Society at Herts Student Union, and I have worked in the retail sector for 14 months!**
 
-- 👨‍💻 My portfolio: [here](https://rishiraj-ai-portfolio.lovable.app)]
+- 👨‍💻 My portfolio: [About page](https://www.ri-sources.com/about)]
 
-- 📫 Reach out via: **rishirajtripathi333@gmail.com**
+- 📫 Reach out via: **[rishirajtripathi333@gmail.com](mailto:rishirajtripathi333@gmail.com)]**
 
 
 <h3 align="left">Connect with me:</h3>
