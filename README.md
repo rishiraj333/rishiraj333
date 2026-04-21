@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [NLP](https://github.com/charlieboxall/Group-PG03-Natural-Language-Processing)], [Applied ML](https://github.com/berkinksk/EEEM068-Prompt-Tuning)]
 
-- 📄 At [University of Surrey](https://www.surrey.ac.uk/postgraduate/artificial-intelligence-msc)] I’m currently pursuing **[MSc Artificial Intelligence with Industrial Practice](https://catalogue.surrey.ac.uk/2026-7/programme/PFA71-13)]**
+- 📄 I’m currently in **[MSc Artificial Intelligence with Industrial Practice](https://catalogue.surrey.ac.uk/2026-7/programme/PFA71-13)]** at [The University of Surrey](https://www.surrey.ac.uk/postgraduate/artificial-intelligence-msc)] 
 
-- 💬 Ask me about **Applied AI, Data Science, Data analysis, Machine Learning, Advance Computer Vision & Deep Learning (neural networks), NLP, fine-tuning LLMs, prompt engineering, and RAG**
+- 💬 Ask me about **Applied AI, Data Science, Data analysis, Machine Learning, Advance Computer Vision & Deep Learning (neural networks), Natural Language Processing (NLP), fine-tuning LLMs, prompt engineering, and RAG**
 
 - ⚡ Interesting facts: **I was the President of Global Students Society at Herts Student Union, and I have worked in the retail sector for 14 months!**
 
